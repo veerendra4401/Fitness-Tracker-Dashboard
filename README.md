@@ -2,6 +2,11 @@
 
 ### A modern fitness tracking dashboard built with React and Tailwind CSS. Track your workouts, monitor progress, and achieve your fitness goals!
 
+## 🔗 Live Demo
+
+👉 [View Deployed App](https://your-live-demo-url.com) <!-- Replace this with your actual Vercel/Netlify URL -->
+
+
 ## ⭐ Key Features
 
 ### 📊 Dashboard

@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-👉 [View Deployed App](https://your-live-demo-url.com) <!-- Replace this with your actual Vercel/Netlify URL -->
+👉 [View Deployed App](https://fitnesstrackerdash.netlify.app/) <!-- Replace this with your actual Vercel/Netlify URL -->
 
 
 ## ⭐ Key Features

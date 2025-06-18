@@ -1,5 +1,6 @@
 # 🏃‍♂️ Fitness Tracker
 
+<<<<<<< HEAD
 A modern fitness tracking dashboard built with React and Tailwind CSS. Track your workouts, monitor progress, and achieve your fitness goals!
 
 ## ⭐ Key Features
@@ -37,13 +38,60 @@ A modern fitness tracking dashboard built with React and Tailwind CSS. Track you
 
 ## 🛠️ Technologies Used
 
+=======
+### A modern fitness tracking dashboard built with React and Tailwind CSS. Track your workouts, monitor progress, and achieve your fitness goals!
+
+## 🔗 Live Demo
+
+👉 [View Deployed App](https://fitnesstrackerdash.netlify.app/) <!-- Replace this with your actual Vercel/Netlify URL -->
+
+
+## ⭐ Key Features
+
+### 📊 Dashboard
+- Real-time workout statistics
+- Daily calorie tracking
+- Time spent exercising
+- Beautiful charts showing progress
+
+### 💪 Workout Management
+- Add different types of workouts:
+  - Running
+  - Cycling
+  - Swimming
+  - Weightlifting
+  - Yoga
+- Track duration and calories burned
+- View workout history
+- Delete completed workouts
+
+### 📈 Statistics & Progress
+- Weekly progress charts
+- Achievement milestones
+- Total calories burned
+- Workout duration tracking
+- Comprehensive statistics view
+
+### 👤 Profile & Settings
+- Customize daily goals
+- Set weekly workout targets
+- Toggle notifications
+- Switch between light/dark themes
+- Save preferences locally
+
+## 🛠️ Technologies Used
+
+>>>>>>> 09dbd87a1de186c843b7bbd7dee7fa2b9765690e
 ### Frontend Framework
 - ⚛️ React (with TypeScript)
 - 🎨 Tailwind CSS
 - 📊 Chart.js
 - 🔄 React Router
 - 💾 Local Storage
+<<<<<<< HEAD
 - 🌙 Dark Mode
+=======
+>>>>>>> 09dbd87a1de186c843b7bbd7dee7fa2b9765690e
 
 ### Development Tools
 - 📝 TypeScript
@@ -138,6 +186,7 @@ src/
 - [x] Consistent spacing
 - [x] Intuitive navigation
 - [x] Mobile-friendly design
+<<<<<<< HEAD
 
 ## 📝 Evaluation Criteria Met
 
@@ -183,3 +232,7 @@ Feel free to contribute to this project:
 ## 📄 License
 
 This project is licensed under the MIT License.
+=======
+
+
+>>>>>>> 09dbd87a1de186c843b7bbd7dee7fa2b9765690e

@@ -74,7 +74,7 @@ const App: React.FC = () => {
               />
             </Routes>
           </main>
-        </div>
+    </div>
       </Router>
     </ThemeProvider>
   );
